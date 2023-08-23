@@ -1,6 +1,6 @@
 # SpartaTextRPG 게임 소개
 ### 던전을 떠나기 전 마을에서 장비를 구하는 게임을 텍스트로 구현했습니다.
-
+###### SpartaTextRPG/SpartaTextRPG/Program.cs
 
 ##### 플레이어 정보, 아이템 정보, 인벤토리와 상점의 내용을 세팅합니다.
 
