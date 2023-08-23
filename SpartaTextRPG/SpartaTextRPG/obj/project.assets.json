@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Sparta(Unity)\\C# lecture\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG.csproj",
+      "projectUniqueName": "C:\\Users\\이민열\\Documents\\GitHub\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG.csproj",
       "projectName": "SpartaTextRPG",
-      "projectPath": "D:\\Sparta(Unity)\\C# lecture\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG.csproj",
+      "projectPath": "C:\\Users\\이민열\\Documents\\GitHub\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG.csproj",
       "packagesPath": "C:\\Users\\이민열\\.nuget\\packages\\",
-      "outputPath": "D:\\Sparta(Unity)\\C# lecture\\SpartaTextRPG\\SpartaTextRPG\\obj\\",
+      "outputPath": "C:\\Users\\이민열\\Documents\\GitHub\\SpartaTextRPG\\SpartaTextRPG\\SpartaTextRPG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\이민열\\AppData\\Roaming\\NuGet\\NuGet.Config",
